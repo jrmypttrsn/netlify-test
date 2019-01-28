@@ -1,0 +1,10 @@
+/**
+ * define markdown styling using tailwind utility classes
+ */
+.markdown h1 {
+    @apply  mb-4;
+}
+
+.markdown p {
+    @apply  mb-4 leading-normal;
+}
